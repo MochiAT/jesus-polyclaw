@@ -2,6 +2,24 @@
 
 Sistema de trading mejorado para mercados de criptomonedas en Polymarket, con enfoque en gestión de riesgo robusta y backtesting avanzado.
 
+📦 **GitHub Repository**: [https://github.com/MochiAT/jesus-polyclaw](https://github.com/MochiAT/jesus-polyclaw)
+
+## 🚀 Quick Start
+
+```bash
+# 1. Clonar el repo
+git clone https://github.com/MochiAT/jesus-polyclaw.git
+cd jesus-polyclaw
+
+# 2. Instalar dependencias
+pip install -r requirements.txt
+
+# 3. Ejecutar daemon de paper trading (2 horas)
+python3 src/paper_trading_daemon.py --duration 2 --strategy combined
+```
+
+Para instrucciones detalladas, ver **[SETUP.md](SETUP.md)**.
+
 ## 🚀 Características Principales
 
 ### Infraestructura Mejorada
