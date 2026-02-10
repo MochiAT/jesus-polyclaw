@@ -1,0 +1,1 @@
+"""Módulo de datos - oracles, features, validación y selección de mercados"""

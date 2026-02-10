@@ -1,0 +1,1 @@
+"""Módulo de estrategias - implementación de estrategias de trading"""

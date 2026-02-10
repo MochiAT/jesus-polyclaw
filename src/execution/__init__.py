@@ -1,0 +1,1 @@
+"""Módulo de ejecución - backtesting y ejecución de trades"""
